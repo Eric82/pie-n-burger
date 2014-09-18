@@ -9,6 +9,14 @@ section{
     margin-top: 10px;
     margin-left: 170px;
 }
+#section1{
+    background-color: white; 
+    border:1px solid black;
+    height: 800px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 170px;    
+}
 header{
     background-color:white;
     height: 155px;
@@ -31,6 +39,12 @@ p{
     font-size: 20px;
     font-family: 'Source Sans Pro', sans-serif;
     
+}
+#para1{
+    background-color: lightgrey;
+    height: 500px;
+    width: 800px;
+    margin-left: 50px;
 }
 #article1{
     background-color: lightgrey;
