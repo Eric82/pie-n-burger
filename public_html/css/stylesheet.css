@@ -33,7 +33,7 @@ p{
     font-family: 'Source Sans Pro', sans-serif;
     
 }
-#article1{
+article{
     background-color: lightgrey;
     height: 200px;
     width: 800px;
@@ -90,7 +90,7 @@ li:hover
         width: 100%;
     }
 }
-@media screen and (max-width:640px){
+@media screen and (max-width:320px){
     #article1{
         width: 100%;
     }

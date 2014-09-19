@@ -1,8 +1,9 @@
 body{
     background-image: url(http://www.thebestcoffee.com/local/wp-content/uploads/2011/07/pienburger.jpg);
+    background-size: cover;
 }
 header{
-    background-color:white;
+    background-color:gray;
     height: 155px;
     width: 500px;
     margin-top: 10px;
@@ -15,12 +16,18 @@ img{
     margin-left: 20px;
 }
 #section1{
-    background-color: white; 
+    background-color: gray; 
     border:1px solid black;
     height: 800px;
     width: 1000px;
     margin-top: 10px;
     margin-left: 170px;    
+}
+#article1{
+    background-color: black;
+    height: 500px;
+    width: 800px;
+    margin-left: 100px;   
 }
 #in1{
     color: rgb(0,0,158);  
