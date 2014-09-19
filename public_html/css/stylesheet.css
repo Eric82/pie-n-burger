@@ -1,8 +1,8 @@
 body{
-    background-image:url(http://desktopict.org/wp-content/uploads/2014/04/Blue-texture-wallpapers-4.jpg);
+    background-image: url(http://www.thebestcoffee.com/local/wp-content/uploads/2011/07/pienburger.jpg);
 }
 section{
-    background-color: white; 
+    background-color: gray;
     border:1px solid black;
     height: 500px;
     width: 1000px;
@@ -10,7 +10,7 @@ section{
     margin-left: 170px;
 }
 header{
-    background-color:white;
+    background-color: gray;
     height: 155px;
     width: 500px;
     margin-top: 10px;
