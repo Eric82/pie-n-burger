@@ -1,5 +1,6 @@
 body{
     background-image: url(http://www.thebestcoffee.com/local/wp-content/uploads/2011/07/pienburger.jpg);
+    background-size: cover 
 }
 section{
     background-color: gray;
@@ -79,5 +80,24 @@ li:hover
   font-size:20px;
 }
 @media screen and (max-width:959px){
-    
+    #article1{
+        width: 100%;
+    }
+    section{
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
+}
+@media screen and (max-width:640px){
+    #article1{
+        width: 100%;
+    }
+    section{
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
 }
