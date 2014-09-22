@@ -18,16 +18,22 @@ img{
 #section1{
     background-color: gray; 
     border:1px solid black;
-    height: 800px;
+    height: 1000px;
     width: 1000px;
     margin-top: 10px;
     margin-left: 170px;    
 }
 #article1{
-    background-color: black;
+    background-color: lightgrey;
     height: 500px;
     width: 800px;
     margin-left: 100px;   
+}
+#h1{
+    font-size: 30px;
+    text-align: center;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
 }
 #in1{
     color: rgb(0,0,158);  
