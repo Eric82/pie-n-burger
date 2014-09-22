@@ -1,9 +1,10 @@
 body{
-    background-image: url(http://www.thebestcoffee.com/local/wp-content/uploads/2011/07/pienburger.jpg);
-    background-size: cover 
+    background-image: url(https://hoodburger.files.wordpress.com/2012/08/pie-and-burger-outside.jpg);
+    background-size: cover;
+    background-position-y: 10%;
 }
 section{
-    background-color: gray;
+    
     border:1px solid black;
     height: 500px;
     width: 1000px;
@@ -11,7 +12,7 @@ section{
     margin-left: 170px;
 }
 header{
-    background-color: gray;
+  
     height: 155px;
     width: 500px;
     margin-top: 10px;
