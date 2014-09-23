@@ -4,15 +4,13 @@ body{
     background-position-y: 10%;
 }
 section{
-    
-    border:1px solid black;
+    background-color: black;
     height: 500px;
     width: 1000px;
     margin-top: 10px;
     margin-left: 170px;
 }
 header{
-  
     height: 155px;
     width: 500px;
     margin-top: 10px;
