@@ -14,19 +14,25 @@ img{
     width: 600px;
     margin-left: 20px;
 }
+#img1{
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
+    margin-left: 210px;    
+}
 #section1{
     border:double 8px black;
     background-color: rgba(0, 0, 255, 0.3);
     background: rgba(0, 0, 255, 0.3);
     color: black;
-    height: 900px;
+    height: 1100px;
     width: 1000px;
     margin-top: 10px;
     margin-left: 170px;    
 }
 #article1{
     background-color: lightgrey;
-    height: 600px;
+    height: 850px;
     width: 800px;
     margin-left: 100px;   
 }
