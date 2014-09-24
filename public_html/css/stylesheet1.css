@@ -3,7 +3,6 @@ body{
     background-size: cover;
 }
 header{
-    background-color:gray;
     height: 155px;
     width: 500px;
     margin-top: 10px;
@@ -16,8 +15,10 @@ img{
     margin-left: 20px;
 }
 #section1{
-    background-color: gray; 
-    border:1px solid black;
+    border:double 8px black;
+    background-color: rgba(0, 0, 255, 0.3);
+    background: rgba(0, 0, 255, 0.3);
+    color: black;
     height: 1000px;
     width: 1000px;
     margin-top: 10px;
