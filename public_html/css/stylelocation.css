@@ -32,7 +32,9 @@ img{
     margin-left: 170px;    
 }
 #article1{
+    text-align: center;
     background-color: lightgrey;
+    color: rgba (0, 0, 255, 0.3 );
     height: 800px;
     width: 800px;
     margin-left: 100px;   
