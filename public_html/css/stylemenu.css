@@ -1,0 +1,107 @@
+body{
+    background-image: url(https://hoodburger.files.wordpress.com/2012/08/pie-and-burger-outside.jpg);
+    background-size: cover;
+    background-position-y: 10%;
+}
+section{
+    border:double 8px #3030d1;
+    background-color: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
+    color: black;
+    height: 1100px;
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+article{
+    float:right;
+    background-color: lightgrey;
+    height: 700px;
+    width: 400px;
+    margin-left: 100px;
+   
+}
+header{
+    height: 155px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 170px; 
+}
+img{
+    height: 150px;
+    width: 600px;
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    margin-left: 220px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+#in1{
+    color: rgb(0,0,158);  
+    width:110px;
+    height:40px;
+    border:1px solid black;
+    background-color:rgb(126,126,126);
+    box-shadow: 3px 3px 3px 3px;
+    display:inline-block;
+    margin-right:8px;
+}
+.in
+{
+  color: rgb(0,0,158);  
+  width:100px;
+  height:40px;
+  border:1px solid black;
+  background-color:rgb(126,126,126);
+  box-shadow: 3px 3px 3px 3px;
+  display:inline-block;
+  margin-right:8px;
+}
+
+.nav
+{
+  text-shadow: 1px 2px 1px black; 
+  letter-spacing:1px;
+  text-align:center;
+  width:90%;
+}
+a
+{ 
+  padding:8px 12px;
+  display:block;
+  color:rgb(0,0,158);
+  text-decoration:none;
+}
+li:hover
+{
+  font-size:20px;
+}
+@media screen and (max-width:959px){
+    #article1{
+        width: 100%;
+    }
+    section{
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
+}
+@media screen and (max-width:320px){
+    #article1{
+        width: 100%;
+    }
+    section{
+        width: 100%;
+    }
+    img{
+        width: 100%;
+    }
+}
