@@ -4,9 +4,9 @@ body{
     background-position-y: 10%;
 }
 section{
-    border:double 8px black;
-    background-color: rgba(0, 0, 255, 0.3);
-    background: rgba(0, 0, 255, 0.3);
+    border:double 8px #3030d1;
+    background-color: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
     color: black;
     height: 500px;
     width: 1000px;

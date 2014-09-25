@@ -15,24 +15,24 @@ img{
     margin-left: 20px;
 }
 #img1{
-    margin-top: 10px;
-    height: 200px;
-    width: 200px;
-    margin-left: 210px;    
+    margin-top: 2px;
+    height: 250px;
+    width: 300px;
+    margin-left: 250px;    
 }
 #section1{
-    border:double 8px black;
-    background-color: rgba(0, 0, 255, 0.3);
-    background: rgba(0, 0, 255, 0.3);
+    border:double 8px #3030d1;
+    background-color: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
     color: black;
-    height: 1100px;
+    height: 1150px;
     width: 1000px;
     margin-top: 10px;
     margin-left: 170px;    
 }
 #article1{
     background-color: lightgrey;
-    height: 850px;
+    height: 880px;
     width: 800px;
     margin-left: 100px;   
 }
