@@ -82,24 +82,72 @@ li:hover
   font-size:20px;
 }
 @media screen and (max-width:959px){
-    #article1{
+    body{
         width: 100%;
+    }
+    header{
+        width: 10%
+    }
+    h1{
+        width: 10%
+    }
+    p{
+        width: 10%
+    }
+    #article1{
+        width: 10%;
     }
     section{
-        width: 100%;
+        width: 10%;
     }
     img{
-        width: 100%;
+        width: 10%;
+    }
+    #in1{
+        width: 10%;
+    }
+    .in{
+        width: 10%;
+    }
+    .nav{
+        width: 10%;
+    }
+    a{
+        width: 10%;
     }
 }
 @media screen and (max-width:320px){
-    #article1{
+    body{
         width: 100%;
+    }
+    header{
+        width: 10%
+    }
+    h1{
+        width: 10%
+    }
+    p{
+        width: 10%
+    }
+    #article1{
+        width: 10%;
     }
     section{
-        width: 100%;
+        width: 10%;
     }
     img{
-        width: 100%;
+        width: 10%;
+    }
+    #in1{
+        width: 10%;
+    }
+    .in{
+        width: 10%;
+    }
+    .nav{
+        width: 10%;
+    }
+    a{
+        width: 10%;
     }
 }
