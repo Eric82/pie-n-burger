@@ -92,3 +92,76 @@ li:hover
 {
   font-size:20px;
 }
+@media screen and (max-width:959px){
+    body{
+        width: 100%;
+    }
+    header{
+        width: 10%
+    }
+    h1{
+        width: 10%
+    }
+    p{
+        width: 10%
+    }
+    #article1{
+        width: 10%;
+    }
+    section{
+        width: 10%;
+    }
+    img{
+        width: 5%;
+    }
+    #in1{
+        width: 5%;
+    }
+    .in{
+        width: 10%;
+    }
+    .nav{
+        width: 10%;
+    }
+    a{
+        width: 10%;
+    }
+}
+@media screen and (max-width:320px){
+    body{
+        width: 100%;
+    }
+    header{
+        width: 10%
+    }
+    h1{
+        width: 10%
+    }
+    p{
+        width: 10%
+    }
+    #article1{
+        width: 10%;
+    }
+    section{
+        width: 10%;
+    }
+    img{
+        width: 5%;
+    }
+    #img1{
+        width: 5%;
+    }
+    #in1{
+        width: 10%;
+    }
+    .in{
+        width: 10%;
+    }
+    .nav{
+        width: 10%;
+    }
+    a{
+        width: 10%;
+    }
+}
